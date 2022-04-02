@@ -1,5 +1,9 @@
 # Vtu8806finaltest
 
+![alt text](https://github.com/bmaneesh2000/StudentREGSystem-Angular/blob/main/1.JPG?raw=true)
+![alt text](https://github.com/bmaneesh2000/StudentREGSystem-Angular/blob/main/2.JPG?raw=true)
+![alt text](https://github.com/bmaneesh2000/StudentREGSystem-Angular/blob/main/3.JPG?raw=true)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
 ## Development server
